@@ -25,5 +25,9 @@
       "auth": "xsuaa",
       "db": "hana"
     }
-  }
+  },
+  "sapux": [
+    "app/interaction_items"
+  ]
 }
+
